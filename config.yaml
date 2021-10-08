@@ -11,7 +11,9 @@ jobname: benchmark
 
 # Model config
 model: cable
-exe: /g/data/w35/ccc561/CABLE/Metvar-lookup1/offline/cable
+exe: /g/data/w35/ccc561/CABLE/Metvar-lookup1/offline/cable-mpi
 input: 
     - /scratch/w35/ccc561/CABLE/CABLE_benchmarking/input_dir
+    - /scratch/p66/yxw599/runcable-access-esm/gswp/system3/
+    - /scratch/p66/yxw599/runcable-access-esm/inputs/
 
