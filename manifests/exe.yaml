@@ -1,0 +1,8 @@
+format: yamanifest
+version: 1.0
+---
+work/cable:
+  fullpath: /g/data/w35/ccc561/CABLE/Metvar-lookup1/offline/cable
+  hashes:
+    binhash: 2a20a28d62428fe4e90bc211c521de77
+    md5: 10c316b02c1a9b59fda7720117a561d2

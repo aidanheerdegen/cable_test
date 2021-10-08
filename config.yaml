@@ -1,0 +1,17 @@
+# PBS flags
+queue: express
+walltime: 2:00:00
+ncpus: 16
+mem: 64GB
+
+# mpirun:
+#    - --bind-to none
+
+jobname: benchmark
+
+# Model config
+model: cable
+exe: /g/data/w35/ccc561/CABLE/Metvar-lookup1/offline/cable
+input: 
+    - /scratch/w35/ccc561/CABLE/CABLE_benchmarking/input_dir
+
