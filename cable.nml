@@ -1,6 +1,6 @@
 &cable
    filename%met = ''
-   filename%out = 'OUTPUT/cable_out.nc'
+   filename%out = 'cable_out.nc'
    filename%log = 'cable_log.txt'
    filename%restart_out = 'RESTART/restart.nc'
    filename%type = 'INPUT/gridinfo-access-esm.nc' 
