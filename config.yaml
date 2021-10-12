@@ -19,4 +19,4 @@ input:
 
 collate: False
 
-archive: False
+restart: /scratch/v45/aph502/cable/restart/test
