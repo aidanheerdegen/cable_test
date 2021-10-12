@@ -2,7 +2,7 @@ format: yamanifest
 version: 1.0
 ---
 work/INPUT/restart.nc:
-  fullpath: /scratch/v45/aph502/cable/archive/test/restart000/restart.nc
+  fullpath: /scratch/v45/aph502/cable/archive/test/restart001/restart.nc
   hashes:
-    binhash: 9b7a6d77014eb0bbef151c81e8225594
-    md5: 44567a224a579a74e0f1315ffc923d04
+    binhash: b5f9615c04c10ffeeda0be84972bcdf1
+    md5: d9ed1d909adbaf718b758d12840e622f
