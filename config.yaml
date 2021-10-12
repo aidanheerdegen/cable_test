@@ -19,4 +19,6 @@ input:
 
 collate: False
 
+runspersub: 2
+
 restart: /scratch/v45/aph502/cable/restart/test
