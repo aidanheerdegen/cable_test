@@ -2,12 +2,12 @@ format: yamanifest
 version: 1.0
 ---
 work/INPUT/cable.res.yaml:
-  fullpath: /scratch/v45/aph502/cable/archive/test/restart005/cable.res.yaml
+  fullpath: /scratch/v45/aph502/cable/archive/test/restart006/cable.res.yaml
   hashes:
-    binhash: 0a822e4be590026a4224c0239d176bb1
-    md5: 22887b5b403615159d0563fad319ec5e
+    binhash: 878f4327588ba437afb109fc579afb3b
+    md5: ef3a41154d7e7d2f1351c61bb9675e67
 work/INPUT/restart.nc:
-  fullpath: /scratch/v45/aph502/cable/archive/test/restart005/restart.nc
+  fullpath: /scratch/v45/aph502/cable/archive/test/restart006/restart.nc
   hashes:
-    binhash: 2b8df9756f2933552e58924f4ba34619
-    md5: 7621fbadcff44017600f975572ca8f36
+    binhash: ed11c8f02c33beeac11ce00ab76e3f5c
+    md5: 485f214c495d9a0bc1421b569725fc75
