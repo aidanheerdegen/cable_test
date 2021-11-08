@@ -4,5 +4,5 @@ version: 1.0
 work/cable-mpi:
   fullpath: /g/data/w35/ccc561/CABLE/Metvar-lookup1/offline/cable-mpi
   hashes:
-    binhash: e00459b585f19fd7e1e7206cd2fcc916
-    md5: 57515c1e7192bae90d802582fc9be105
+    binhash: 9f84b521058c562961145c5130a9a7b4
+    md5: 0dedc33c83f8b16d85c05b08c8d5b11d
